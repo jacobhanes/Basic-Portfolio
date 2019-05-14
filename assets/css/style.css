@@ -32,7 +32,7 @@ footer {
 .main-box {
     clear: both;
     height: 350px;
-    width: 550px;
+    width: 960px;
     margin: 0 auto;
     padding: 10px;
     background-color: #ffffff;
@@ -47,6 +47,7 @@ h2 {
 textarea {
     clear: left;
     float: left;
+    margin: 20px;
 }
 header{
     background-color: #ffffff;
@@ -58,5 +59,9 @@ header{
     float: left;
 }
 p {
-    float: right;
+    float: left;
+}
+button {
+    clear: both;
+    float: left;
 }
