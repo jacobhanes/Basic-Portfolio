@@ -26,7 +26,7 @@ body {
 footer {
     background-color: #666666;
     height: 30px;
-    width: 100%;
+    width: 960px;
     color: #ffffff;
 }
 .main-box {
@@ -47,7 +47,10 @@ h2 {
 textarea {
     clear: left;
     float: left;
-    margin: 20px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
 }
 header{
     background-color: #ffffff;
@@ -64,4 +67,8 @@ p {
 button {
     clear: both;
     float: left;
+    margin: 10px;
+}
+ul {
+    list-style-type: none;
 }
