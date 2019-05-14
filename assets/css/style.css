@@ -52,6 +52,9 @@ textarea {
     margin-top: 10px;
     width: 100%;
 }
+#message {
+    height: 100px;
+}
 header{
     background-color: #ffffff;
 }
