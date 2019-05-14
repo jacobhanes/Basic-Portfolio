@@ -1,4 +1,4 @@
-#name-box {
+.name-box {
     background-color: #4aaaa5;
     padding: 5px 10px 5px 10px; 
     margin: 10px;
@@ -10,31 +10,53 @@ li {
     float: left;
     padding: 10px;
 }
-#list {
+.list {
     float: right;
 }
 a {
     color: #cccccc;
 }
 
-#main-box {
-    background-color: white;
-    height: ;
-}
 body {
     background-image: url("../images/united-squares/united-squares.png");
     width: 960px;
     text-align: center;
+    margin: 0 auto;
 }
 footer {
     background-color: #666666;
+    height: 30px;
+    width: 100%;
+    color: #ffffff;
 }
-#main-box {
+.main-box {
     clear: both;
-    height: 300px;
-    width: 500px;
+    height: 350px;
+    width: 550px;
     margin: 0 auto;
+    padding: 10px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    overflow: auto;
 }
 h2 {
     color: #4aaaa5;
+    float: left;
+}
+textarea {
+    clear: left;
+    float: left;
+}
+header{
+    background-color: #ffffff;
+}
+#image {
+    width: 100px;
+    height: 100px;
+    clear: left;
+    float: left;
+}
+p {
+    float: right;
 }
