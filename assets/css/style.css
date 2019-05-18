@@ -1,5 +1,6 @@
 .name-box {
     background-color: #4aaaa5;
+<<<<<<< HEAD
     padding: 10px;
     width: 15%; 
     float: left;
@@ -8,6 +9,13 @@
     top: 0;
     height: 90px;
 
+=======
+    padding: 5px 10px 5px 10px; 
+    margin: 10px;
+    width: 15%; 
+    float: left;
+    color: #ffffff;
+>>>>>>> 9173e10fe436879037c0055704daaeb6d21d1554
 }
 li {
     float: left;
@@ -22,23 +30,24 @@ a {
 
 body {
     background-image: url("../images/united-squares/united-squares.png");
+    width: 960px;
     text-align: center;
     margin: 0 auto;
 }
 footer {
     background-color: #666666;
     height: 30px;
-    width: 100%;
+    width: 960px;
     color: #ffffff;
 }
 .main-box {
     clear: both;
-    height: auto;
+    height: 350px;
     width: 960px;
     margin: 0 auto;
     padding: 10px;
     background-color: #ffffff;
-    margin-top: 115px;
+    margin-top: 10px;
     margin-bottom: 20px;
     overflow: auto;
 }
